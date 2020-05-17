@@ -1,0 +1,1 @@
+cmd_/home/vlad/repos/dir1/DPKS_lab4/lab4a/hello2.ko := ccache arm-eabi-ld -r  -EL -T ./scripts/module-common.lds -T ./arch/arm/kernel/module.lds  --build-id  -o /home/vlad/repos/dir1/DPKS_lab4/lab4a/hello2.ko /home/vlad/repos/dir1/DPKS_lab4/lab4a/hello2.o /home/vlad/repos/dir1/DPKS_lab4/lab4a/hello2.mod.o ;  true
